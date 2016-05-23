@@ -1,5 +1,5 @@
 requirejs.config({
-    baseUrl: "/Users/leedhcf92/jwp-workspace/webUI-workspace/UIAdvacned_final2/js/",
+    baseUrl: "/Users/leedhcf92/jwp-workspace/webUI-workspace/UIAdvanced_final/js/",
     paths: {
         'jquery': '../node_modules/jquery/dist/jquery',
         'handlebars': '../node_modules/handlebars/dist/handlebars.amd',
